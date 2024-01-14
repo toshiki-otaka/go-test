@@ -1,0 +1,5 @@
+- id: 2
+  user_id: 2
+  title: "test_post_2"
+  created_at: "2024-01-14 13:14:15"
+  updated_at: "2024-01-14 13:14:15"
